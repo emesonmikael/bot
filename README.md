@@ -7,6 +7,8 @@ Como instalar Node + VS Code + Git: https://www.youtube.com/watch?v=iJ-BUhcZOSY
 
 Playlist Programação para Iniciantes: https://www.youtube.com/watch?v=c9mDHLYAIu8&list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm
 
+Live 01: https://youtube.com/live/u6KIU1HN-DA?feature=share
+
 ## Como executar
 
 1. git clone
