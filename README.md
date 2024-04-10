@@ -7,7 +7,11 @@ Como instalar Node + VS Code + Git: https://www.youtube.com/watch?v=iJ-BUhcZOSY
 
 Playlist Programação para Iniciantes: https://www.youtube.com/watch?v=c9mDHLYAIu8&list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm
 
+Erros comuns: https://www.luiztools.com.br/post/erros-comuns-com-as-apis-da-binance/
+
 Live 01: https://youtube.com/live/u6KIU1HN-DA?feature=share
+
+Live 02: https://youtube.com/live/yjgDGmkAEDY?feature=share
 
 ## Como executar
 
