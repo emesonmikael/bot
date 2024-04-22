@@ -6,8 +6,9 @@ const SYMBOL = "BTCUSDT";
 const BUY_PRICE = 100000;
 const SELL_PRICE = 100000;
 const QUANTITY = "0.001";
-const API_KEY = "XXX";//aprenda a criar as chaves: https://www.youtube.com/watch?v=-6bF6a6ecIs
-const SECRET_KEY = "XXX";
+const API_KEY = "D2mKbnMvQmqf00J6JfvfxFZ42hkfYBLHJN3zAYdkbXP6ponCoblav2ruIEGsuQck";//aprenda a criar as chaves: https://www.youtube.com/watch?v=-6bF6a6ecIs
+const SECRET_KEY = "2jW8CVP7N9didbvJuiXCA27bthN4rFhgqEu0Io9DffAOXo5VGImCw9SrdwTWPTWU";
+
 
 let isOpened = false;
 
